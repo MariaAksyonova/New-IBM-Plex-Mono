@@ -1,0 +1,127 @@
+
+body {
+    width: 1280px;
+    background-color: #FFFFFF;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    font-family: "IBM Plex Mono";
+  }
+.first_out { 
+    font-family: "IBM Plex Mono";
+    font-size: 128px;
+    font-weight: bold;
+    margin-left: 140px;
+    margin-top: 95px; 
+    position: absolute;
+}
+.first_in { 
+  font-family: "IBM Plex Mono";
+  font-size: 128px;
+  font-weight: bold;
+  color: #FFFFFF;
+  -webkit-text-stroke: 4px #000000; /* Толщина и цвет обводки */
+  position: absolute;
+}
+  .first {
+    position: relative;
+  }
+  .scroll {
+  font-family: "IBM Plex Mono";
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 592px;
+  margin-top: 797px; 
+  position: absolute;
+  }
+.godsozdaniya {
+  font-family: "IBM Plex Mono";
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 983px;
+  margin-top: 1025px; 
+  position: absolute;
+  }
+.avtor {
+  font-family: "IBM Plex Mono";
+  font-size: 25px;
+  font-weight: 300;
+  color: #FFFFFF;
+  margin-left: 887px;
+  margin-top: 1325px; 
+  position: absolute;
+}
+.aboutfont {
+  font-family: "IBM Plex Mono";
+  line-height: 112%;
+  font-size: 32px;
+  font-weight: normal;
+  margin-left: 58px;
+  margin-top: 2180px; 
+  color: #FFFFFF;
+   
+  -webkit-text-fill-color: #FFFFFF;
+  -webkit-text-stroke-width: 14px;
+  -webkit-text-stroke-color: #000000;
+
+  paint-order: stroke fill;
+ 
+  position: absolute;
+}
+.zeroone {
+  font-family: "IBM Plex Mono";
+  font-size: 50px;
+  font-weight: normal;
+  margin-left: 57px;
+  margin-top: 95px; 
+  position: absolute;
+}
+.zerotwo {
+  position: relative;
+}
+.skruglyonnosti {
+  font-family: "IBM Plex Mono";
+  line-height: 119%;
+  font-size: 50px;
+  font-weight: normal;
+  font-style: italic;
+  margin-left: 656px;
+  margin-top: 1042px;
+  color: #FFFFFF; 
+  position: absolute;
+}
+.skruglyonnosti_in {
+  font-family: "IBM Plex Mono";
+  line-height: 119%;
+  font-size: 50px;
+  font-weight: normal;
+  font-style: normal;
+  color: #FFFFFF; 
+  position: relative;
+  text-decoration: underline;
+}
+.zerothree {
+  font-family: "IBM Plex Mono";
+  line-height: 112%;
+  font-size: 50px;
+  font-weight: normal;
+  margin-left: 345px;
+  margin-top: 1660px; 
+  color: #FFFFFF;
+   
+  -webkit-text-fill-color: #FFFFFF;
+  -webkit-text-stroke-width: 14px;
+  -webkit-text-stroke-color: #000000;
+
+  paint-order: stroke fill;
+  position: absolute;
+}
+.student {
+  font-family: "IBM Plex Mono";
+  font-size: 25px;
+  font-weight: 300;
+  color: #FFFFFF;
+  margin-left: 66px;
+  margin-top: 1439px; 
+  position: absolute;
+}
